@@ -110,4 +110,6 @@ venv.bak/
 bin
 include
 local
+instance
+migrations
 
